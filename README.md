@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Pride Ngomane
+# 👋 Hello, My Name is Pride Ngomane (Data Analyst)
 
 ## About Me
 
@@ -9,26 +9,25 @@ I am a Data Analytics professional with a strong foundation in Accounting Scienc
 * Developing and deploying **APIs** using FastAPI and Snowflake
 * Building predictive models and simulation tools for data-driven decision-making
 * Creating my personal portfolio using **Lovable.ai**
-* Managing and expanding my entrepreneurial ventures, including **Khaya'Lami Cleaning Solutions** and **TickHaus**
+* Managing and expanding my entrepreneurial ventures, including **P.ZWIDE HOLDINGS**
 * Engaged in ongoing studies in **Internal Auditing** and advanced data analytics methodologies
 * Participated in creating **Virtual Experiences** using **EON XR**
 * Analyzing **Villageup websites** using **Google Analytics**, **Looker Studio**, and **Microsoft Clarity**
 * Developing and deploying **APIs** using FastAPI and Snowflake
 * Building predictive models and simulation tools for data-driven decision-making
-* Managing and expanding my entrepreneurial ventures, including **Khaya'Lami Cleaning Solutions** and **TickHaus**
+* Managing and expanding my entrepreneurial ventures, including **P.ZWIDE HOLDINGS**
 * Engaged in ongoing studies in **Internal Auditing** and advanced data analytics methodologies
 * Participated in creating **Virtual Experiences** using **EON XR**
 * Analyzing **Villageup websites** using **Google Analytics**, **Looker Studio**, and **Microsoft Clarity**
 
 ## Skills & Expertise
 
-* **Programming & Data:** Python, JavaScript, SQL (advanced querying, data modeling), Machine Learning (supervised & unsupervised models), Creating graphs & visualizations using Python
+* **Programming & Data:** Python,, SQL (advanced querying, data modeling), Machine Learning (supervised & unsupervised models), Creating graphs & visualizations using Python
 * **Data Operations:** Data cleaning, data validation, preprocessing, and transformation
 * **BI & Analytics Tools:** Power BI, Google Analytics, Looker Studio, Microsoft Clarity
 * **Data Handling & Productivity:** Google Sheets, Microsoft Excel
 * **Development Environments:** Jupyter Notebook, Google Colab, Databricks, VS Code
-* **Frameworks & Tools:** FastAPI, Node.js, React, Snowflake, GitHub, KoboToolbox
-* **Business & Management:** Financial reporting, internal auditing, product pricing strategies, digital marketing
+* **Frameworks & Tools:** FastAPI, Snowflake, GitHub
 
 ## Professional Experience
 
@@ -42,9 +41,7 @@ I am a Data Analytics professional with a strong foundation in Accounting Scienc
 
 ## Business Ventures
 
-* **Khaya'Lami Cleaning Solutions** – Local cleaning products and services
 * **P.Zwide Holdings** – Registered holding company
-* **TickHaus** – Curated affordable luxury watches targeting Gen Z and Millennial consumers in South Africa
 
 ## Contact Information
 
